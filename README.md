@@ -7,7 +7,7 @@ connpass: https://pyladies-tokyo.connpass.com/event/129156/
     - [StylingのNotebook](https://github.com/komo-fr/pyladiestokyo_41_pandas/blob/master/01_styling.ipynb)
     - [VisualizationのNotebook](https://github.com/komo-fr/pyladiestokyo_41_pandas/blob/master/02_visualization.ipynb)
 - slide
-    - (urlを書く)
+    - https://bit.ly/2JEos9o
     
 ## その他
 - 第一部の資料
